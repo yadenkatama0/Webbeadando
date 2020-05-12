@@ -1,0 +1,6 @@
+    <h1>Tiszta Formák Alapítvány</h1>
+    <p>A Tiszta Formák Alapítvány lehetőséget teremt számunkra, annak életrehívóiként és működtetőiként, hogy rajta keresztül támogatást biztosítsunk a hozzánk pályázatukkal eljutó, egyetemes értékeket hordozó és egyben közvetítő kezdeményezések számára.<br><br>
+    A beadott pályázatokkal szemben támasztott legfontosabb elvárás, hogy olyan életigenlő tartalmakat hordozzanak, amelyek célja az emberi élet minőségének javítása, függetlenül attól, hogy az ebbéli törekvés egy egyén kivételes képességeként, vagy közösségformáló erőként jelenik is meg.<br> <br>
+    Kiemelt figyelemmel fordulunk olyan kezdeményezések felé, melyek legfontosabb feladatuknak a közösségi értékek átadását tekintik a jövő generációi számára, melyek a kölcsönös bizalom, tisztelet és szeretet értékei mentén szerveződnek.<br> <br>
+    Felhívjuk pályázóink figyelmét, hogy a pályázatok benyújtása alapítványunkhoz online módon történik. Kérjük, a pályázat sikeres beadásának érdekében olvassák át a Pályázás folyamatát leíró menüpontot, majd a beadáshoz válasszák a Pályázat benyújtása menüpontot.</p>
+    <img src="styles/images/gyerekek.jpg">
